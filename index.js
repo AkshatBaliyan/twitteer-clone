@@ -23,12 +23,12 @@ app.set("views", path.join(__dirname, "views"));
 let data=[
     {
         id: uuidv4(),
-        username :"abhishek",
+        username :"akshat",
         tweet: "this is my first tweet"
     },
     {
         id: uuidv4(),
-        username :"abhi",
+        username :"aksh",
         tweet: "this is my second tweet"
     }
 
